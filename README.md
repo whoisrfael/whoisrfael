@@ -14,7 +14,7 @@
 Aqui estão algumas ideias para você começar:
 
 🌱atualmente estou aprendendo:  100 Days of Code: The Complete Python Pro Bootcamp for 2022 & Profissional de Análise de Dados<b>(Google)</b><br>
-💬Pergunte-me sobre... Python & Linux
+💬Pergunte-me sobre... Python & Linux<br>
 📫Como chegar até mim: <a>rfael.epr@gmail.com</a>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=whoisrfael&theme=tokyonight" alt="whoisrfael" height="170em"/>
