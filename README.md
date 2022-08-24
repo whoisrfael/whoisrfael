@@ -11,10 +11,11 @@
 <h3>Bem-vindo ao meu Repositorio!!!</h3>
 
 
-Aqui estão algumas ideias para você começar:
+Aqui estão algumas ideias sobre mim:
 
 🌱atualmente estou aprendendo:  100 Days of Code: The Complete Python Pro Bootcamp for 2022 & Profissional de Análise de Dados<b>(Google)</b><br>
-💬Pergunte-me sobre... Python 🐍 & Linux 🐧<br>
+💬Pergunte-me sobre... Python🐍 & Linux🐧.<br>
+Gosto de cachorros🐶 e livros tambem📚🤣.
 
 <h3>Sobre</h3>
 
