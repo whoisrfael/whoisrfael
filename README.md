@@ -1,4 +1,14 @@
-### Hi there 👋
+### Olá👋
+
+Bem-vindo ao meu Repositorio!!!
+
+<a href="https://github.com/whoisrfael" target="_blank">
+  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+</a> 
+
+<a href="https://www.linkedin.com/in/whoisrfael/" target="_blank">
+  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+</a>
 
 <!--
 **whoisrfael/whoisrfael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
