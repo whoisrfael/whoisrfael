@@ -13,7 +13,7 @@
 
 Aqui estão algumas ideias sobre mim:
 
-🌱atualmente estou aprendendo:  100 Days of Code: The Complete Python Pro Bootcamp for 2022 & Profissional de Análise de Dados<b>(Google)</b><br>
+🌱Atualmente estou aprendendo:  100 Days of Code: The Complete Python Pro Bootcamp for 2022 & Profissional de Análise de Dados<b>(Google)</b><br>
 💬Pergunte-me sobre... Python🐍 & Linux🐧.<br>
 Gosto de cachorros🐶 e livros tambem📚🤣.
 
