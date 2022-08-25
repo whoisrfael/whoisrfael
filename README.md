@@ -21,6 +21,7 @@ Gosto de cachorros🐶 e livros tambem.📚🤣
 
 <p>Tenho interesse em me aprofundar na linguagem python, acredito ser uma das melhores linguagens para se trabalhar com analise de dados e pretendo futuramente ser um <b>analista de dados</b>.🚀 </p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=whoisrfael&theme=tokyonight" alt="whoisrfael" height="170em"/>
+<center><img align="left" src="https://github-readme-stats.vercel.app/api?username=whoisrfael&theme=tokyonight" alt="whoisrfael" height="170em"/></center></br>
+
 
 
